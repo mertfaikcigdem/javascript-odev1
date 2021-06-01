@@ -1,0 +1,28 @@
+.class-saat {
+    position: relative;
+    text-align: center;
+    color: #e98208;
+    font-size: 60px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+}
+
+.text1 {
+    position: relative;
+    text-align: center;
+    color: #e98208;
+    font-size: 50px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+}
+
+.text2 {
+    position: relative;
+    text-align: center;
+    color: #e98208;
+    font-size: 40px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
